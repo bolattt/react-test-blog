@@ -23,6 +23,24 @@
       "body": "body",
       "author": "mario",
       "id": 4
+    },
+    {
+      "title": "hhi",
+      "body": "hi",
+      "author": "mario",
+      "id": 5
+    },
+    {
+      "title": "nice",
+      "body": "w",
+      "author": "mario",
+      "id": 6
+    },
+    {
+      "title": "new blog",
+      "body": "new body",
+      "author": "mario",
+      "id": 7
     }
   ]
 }
